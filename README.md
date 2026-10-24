@@ -1,4 +1,4 @@
-\# Week 6: Crop Disease Classification from Leaf Photos with ResNet-18
+Week 6: Crop Disease Classification from Leaf Photos with ResNet-18
 
 
 
